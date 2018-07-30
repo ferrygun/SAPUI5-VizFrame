@@ -1,0 +1,7 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:viz="sap.viz.ui5.controls" controllerName="VizFrame.controller.VizChart">
+    <Page title="Viz Frame">
+        <content>
+            <viz:VizFrame xmlns="sap.viz" id="idcolumn" width="100%"></viz:VizFrame>
+        </content>
+    </Page>
+</core:View>
